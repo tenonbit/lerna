@@ -1,2 +1,2 @@
 # lerna
-lerna
+lerna monorep
